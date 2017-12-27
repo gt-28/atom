@@ -1,5 +1,5 @@
 ## Download URL
-Go to https://github.com/atom/atom/releases/ and find the latest stable release and then download `atom-x64-windows.zip` file
+Go to https://github.com/atom/atom/releases/ and find the latest stable release and then download `atom-x64-windows.zip` file for Windows or `atom-mac.zip` for Mac OS
 
 ## Use atom as a default program after an update
 1. Open Atom
@@ -11,7 +11,7 @@ Go to https://github.com/atom/atom/releases/ and find the latest stable release 
   * Show in folder context menus
 
 
-## Getting Spell Check Working on Windows 7
+## Getting Spell Check Working on Windows
 1. Inside of Atom, Click on `File` then `Settings`
 
 2. Select `Packages`
@@ -39,8 +39,6 @@ Go to https://github.com/atom/atom/releases/ and find the latest stable release 
 ***Spell checking should now work the way it is supposed to after restarting Atom***
 
 ## Packages
-
-***You will not be able to install packages or preform updates on the charter network, you'll have to connect to the guest wifi***
 
 ### Suggested Packages to install
 1. atom-beautify
@@ -100,5 +98,3 @@ Add Comment Collapse
 Jump
  
 Mark as read (esc)
-
-Jot something down
