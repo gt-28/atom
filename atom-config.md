@@ -70,6 +70,9 @@ Go to https://github.com/atom/atom/releases/ and find the latest stable release 
 9. sync-settings
     > https://atom.io/packages/sync-settings
 
+10. git-plus
+    > https://atom.io/packages/git-plus
+
 ### Suggested Packages to disable:
 1. markdown-preview
 2. metrics
